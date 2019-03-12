@@ -1,0 +1,6 @@
+C:\Users\nb-his-10\RiderProjects\Rold\Rold\bin\Debug\Rold.exe
+C:\Users\nb-his-10\RiderProjects\Rold\Rold\bin\Debug\Rold.pdb
+C:\Users\nb-his-10\RiderProjects\Rold\Rold\bin\Debug\VAMemory.dll
+C:\Users\nb-his-10\RiderProjects\Rold\Rold\obj\Debug\Rold.csprojResolveAssemblyReference.cache
+C:\Users\nb-his-10\RiderProjects\Rold\Rold\obj\Debug\Rold.exe
+C:\Users\nb-his-10\RiderProjects\Rold\Rold\obj\Debug\Rold.pdb
